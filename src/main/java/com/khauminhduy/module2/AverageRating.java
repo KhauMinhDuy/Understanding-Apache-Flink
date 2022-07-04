@@ -21,6 +21,7 @@ public class AverageRating {
 				.ignoreFirstLine()
 				.includeFields(false, true, true, false)
 				.types(Long.class, Double.class);
+		
 		// @formatter:on
 
 	}
